@@ -125,7 +125,18 @@ These findings hold across both educational measures and both sample groups.
 1. Download the GSS dataset (`gss7218_R1.RDS`)  
 2. Place it in the `/ReplProjTurnIn` folder  
 3. Set your working directory in R:
-4. Run the scripts in order of folder
+4. Run the scripts in order of:
+  1. llaszewski-ReplProj-LoadingDataV1.R
+  2. llaszewski-ReplProj-subsetyearsV1.R
+  3. llaszewski-ReplProj-VariablesV1.R
+  4. llaszewski-ReplProj-RemovePaseiV1.R
+  5. llaszewski-ReplProj-RemoveAge_EducV1.R
+  6. llaszewski-ReplProj-RemoveSibs_DegreeV1.R
+  7. llaszewski-ReplProj-MetaDataV1.R
+  8. llaszewski-ReplProj-DescStatsFrequenciesV1.R
+  9. llaszewski-ReplProj-DescStats_MeanSDV1.R
+  10. llaszewski-ReplProj-RegressionTable3V1.R
+  11. llaszewski-ReplProj-RegressionTable4V1.R
 
 ---
 
