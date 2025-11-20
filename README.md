@@ -131,9 +131,9 @@ These findings hold across both educational measures and both sample groups.
 
 ## Documents 
 
-- Full Replication Paper: [Paper.pdf](./results/llaszewski-ReplProj-PaperShown.pdf)
-- Tables (Descriptive Stats + Regression): [Tables.pdf](./results/llaszewski-ReplProj-TablesShown.pdf)
-- Project Diary: [llaszewski-ReplProj-Diary.pdf](./results/llaszewski-ReplProj-Diary.pdf)
+- Full Replication Paper: [llaszewski-ReplProj-PaperShown.pdf](./Results/llaszewski-ReplProj-PaperShown.pdf)
+- Tables (Descriptive Stats + Regression): [llaszewski-ReplProj-TablesShown.pdf](./Results/llaszewski-ReplProj-TablesShown.pdf)
+- Project Diary: [llaszewski-ReplProj-Diary.pdf](./Results/llaszewski-ReplProj-Diary.pdf)
 
 The dataset used in this project (GSS 1972–2018 cumulative file) can be downloaded from the official GSS Data Explorer:  
 https://gssdataexplorer.norc.org/
