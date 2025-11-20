@@ -131,7 +131,7 @@ These findings hold across both educational measures and both sample groups.
 
 ## Documents 
 
-- Full Replication Paper: [Paper.pdf](./Paper.pdf)
+- Full Replication Paper: [Paper.pdf](llaszewski-ReplProj-PaperShown.pdf)
 - Tables (Descriptive Stats + Regression): [Tables.pdf](./Tables.pdf)
 - Dataset (GSS RDS File): [gss7218_R1.RDS](./gss7218_R1.RDS)
 
